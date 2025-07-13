@@ -6,8 +6,8 @@ This repository contains 14 beginner to intermediate-level mini projects built u
 
 ## Projects Included
 
-| #   | Project Name                   | Description                                                                 |
-|-----|--------------------------------|-----------------------------------------------------------------------------|
+| #   | Project Name                  | Description                                                                 |
+|-----|-------------------------------|-----------------------------------------------------------------------------|
 | 1   | Alarm Clock                   | Set a time and get notified with sound when the alarm triggers.             |
 | 2   | Calculator GUI                | A simple calculator application with a graphical interface using Tkinter.   |
 | 3   | Countdown Timer               | A CLI-based countdown timer that beeps when the timer ends.                 |
@@ -22,6 +22,7 @@ This repository contains 14 beginner to intermediate-level mini projects built u
 | 12  | To-Do List CLI                | A terminal-based task manager with add, remove, and view functionality.     |
 | 13  | Weather App                   | Fetches current weather data from an API and displays it neatly.            |
 | 14  | YouTube Video Downloader      | Download YouTube videos using `pytube`.                                     |
+| 15  | Sketch Generator              | Converts an image to a pencil sketch using OpenCV.                          |
 
 ---
 
